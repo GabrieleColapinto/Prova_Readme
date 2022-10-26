@@ -4,7 +4,7 @@ Polibot is a application for Windows (x64) developed to build an info point with
 At the moment it is a prototype and it can provide a limited amount of informations.
 The informations it can provide in its initial release are about the location of the classrooms and the way to connect to the Wi-Fi of the Polytechnic.
 
-:it: The prototype is developed for a Windows version with the italian language installed and some of the files are in italian. :it:
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f9.png?v8" alt="Italian flag" width="20" height="20"/> The prototype is developed for a Windows version with the italian language installed and some of the files are in italian. <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f9.png?v8" alt="Italian flag" width="20" height="20"/>
 
 ## Repository content
 The repository contains the following folders:
